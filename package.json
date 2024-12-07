@@ -1,0 +1,19 @@
+{
+  "name": "07hotel_user",
+  "version": "1.0.0",
+  "description": "'this is for hotel room managment system",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "author": "ankit",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.1",
+    "express-validation": "^4.1.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.2",
+    "nodemon": "^3.1.7"
+  }
+}
